@@ -40,7 +40,7 @@ GiftBloom addresses this by providing:
 ---
 ## Screenshots
 
-[View all images] (images/)
+- [View all images](images/)
 
 ---
 
