@@ -39,17 +39,4 @@ GiftBloom addresses this by providing:
 
 ---
 
-## Screenshots
-(See `/images` folder)
-
----
-
-## Future Enhancements
-
-- Group gifting
-- Digital wallet integration
-- Enhanced personalization and social sharing
-
----
-
 This project demonstrates skills in UX/UI design, user research, and product thinking, and complements my technical and cybersecurity-focused projects.
