@@ -38,5 +38,10 @@ GiftBloom addresses this by providing:
 - Mobile UI/UX Design  
 
 ---
+## Screenshots
+
+[View all images] (images/)
+
+---
 
 This project demonstrates skills in UX/UI design, user research, and product thinking, and complements my technical and cybersecurity-focused projects.
